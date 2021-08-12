@@ -4,6 +4,8 @@
 
 [Original repo](https://github.com/jherr/react-vs-solid-fight)
 
+[🔍Live DEMO](https://stupefied-noyce-afd908.netlify.app/)
+
 ```bash
 $ npm install # or pnpm install or yarn install
 ```
